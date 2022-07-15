@@ -6,7 +6,7 @@ Created by: **_Delabrilliano Ismail_**
 
 This model was created for a quick task given by Purwadhika Digital Technology School as part of the Data Science and Machine Learning bootcamp.
 
-This model uses simple linear regression algorithm to predict taxi drivers tips based on the fare. The dataset was imported from 'Tips' dataset on Seaborn
+This model uses simple linear regression algorithm to predict restaurant's tips based on the fare. The dataset was imported from 'Tips' dataset on Seaborn
 
 <hr>
 
